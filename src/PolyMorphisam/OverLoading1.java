@@ -21,5 +21,6 @@ public class OverLoading1 {
 		String java3=j.Opps("","");
 		String java4=j.Opps("","","");
 		System.out.println("1->"+java1+"\n2->"+java2+"\n3->"+java3+"\n4->"+java4);
+	
 	}
 }
